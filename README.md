@@ -6,8 +6,6 @@ The **Random Emoji Generator** is a simple web application that displays a rando
 
 ---
 
----
-
 ## 🔗 Demo
 
 👉 [Live Demo Here](https://ayushlochan.github.io/Random-Emoji-Generator/)
